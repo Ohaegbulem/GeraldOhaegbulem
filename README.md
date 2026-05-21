@@ -19,3 +19,6 @@ Enterprise IT Strategy • Digital Transformation • Cybersecurity & Risk Manag
 I am passionate about building resilient, secure, and future-ready technology environments that support business growth while maintaining strict compliance and governance standards.
 
 I am open to senior leadership opportunities where I can drive enterprise-wide technology transformation, strengthen cybersecurity posture, and deliver measurable business value at scale.
+
+#PROJECTS:
+#CERTIFICATIONS:
