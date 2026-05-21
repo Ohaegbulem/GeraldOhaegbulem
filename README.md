@@ -20,5 +20,5 @@ I am passionate about building resilient, secure, and future-ready technology en
 
 I am open to senior leadership opportunities where I can drive enterprise-wide technology transformation, strengthen cybersecurity posture, and deliver measurable business value at scale.
 
-#PROJECTS:
-#CERTIFICATIONS:
+# PROJECTS:
+# CERTIFICATIONS:
