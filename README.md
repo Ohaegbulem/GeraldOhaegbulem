@@ -1,5 +1,5 @@
 
-<img width="150" height="250" alt="G2" src="https://github.com/user-attachments/assets/8083357c-6562-4528-9374-251f2d5c19b8" />
+<img width="150" height="180" alt="G2" src="https://github.com/user-attachments/assets/8083357c-6562-4528-9374-251f2d5c19b8" />
 
 # Gerald Ohaegbulem
 
