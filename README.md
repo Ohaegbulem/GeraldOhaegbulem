@@ -22,14 +22,14 @@ I am open to senior leadership opportunities where I can drive enterprise-wide t
 
 # PROJECTS:
 # CERTIFICATIONS:
-Certified Governance Risk and Compliance Analyst (CGRCA)
-Certified Phishing Prevention Specialist (CPPS)
-Certified Data Protection Officer (CDPO)
-Certified Cybersecurity Fundamentals Specialist (CCFS) 
-Accredited Project Manager Certification™
-ISC2 Certified in Cybersecurity (CC)
-IBM Cybersecurity Analyst Professional Certificate
-Introduction to Structured Query Language (SQL) Certification
+* Certified Governance Risk and Compliance Analyst (CGRCA)
+* Certified Phishing Prevention Specialist (CPPS)
+* Certified Data Protection Officer (CDPO)
+* Certified Cybersecurity Fundamentals Specialist (CCFS) 
+* Accredited Project Manager Certification™
+* ISC2 Certified in Cybersecurity (CC)
+* IBM Cybersecurity Analyst Professional Certificate
+* Introduction to Structured Query Language (SQL) Certification
 Computer Security and Systems Management Specialization
 Introduction to Cyber Security - Specialization 
 Database Management Essentials Certification
