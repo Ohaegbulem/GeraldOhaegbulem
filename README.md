@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://shields.io)](https://linkedin.com/in/geraldohaegbulem)
 
-I am a Technology Leader with progressive experience driving enterprise IT strategy, cybersecurity, and digital transformation across financial services and diversified multi-entity organisations. I specialize in aligning technology with business objectives to deliver secure, scalable, and compliant digital ecosystems that enable growth, &amp; ROI.
+I am a Technology Leader with progressive experience in driving enterprise IT strategy, cybersecurity, and digital transformation across financial services and diversified multi-entity organisations. I specialize in aligning technology with business objectives to deliver secure, scalable, and compliant digital ecosystems that enable growth, &amp; ROI.
 In my current role as Head of IT, I lead enterprise-wide technology operations and transformation initiatives across multiple business units and 750 + team members, ensuring high service availability, strong cybersecurity posture, and full regulatory compliance in highly regulated environments.
 
 # Key Career Highlights:
