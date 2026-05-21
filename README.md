@@ -30,13 +30,13 @@ I am open to senior leadership opportunities where I can drive enterprise-wide t
 * ISC2 Certified in Cybersecurity (CC)
 * IBM Cybersecurity Analyst Professional Certificate
 * Introduction to Structured Query Language (SQL) Certification
-Computer Security and Systems Management Specialization
-Introduction to Cyber Security - Specialization 
-Database Management Essentials Certification
-ITIL V3 Foundation
+* Computer Security and Systems Management Specialization
+* Introduction to Cyber Security - Specialization 
+* Database Management Essentials Certification
+* ITIL V3 Foundation
 
 # EDUCATION
-National Open University of Nigeria
-MScInformation Technology
-Imo State University
-B.Sc Computer Science
+* National Open University of Nigeria
+  MScInformation Technology
+* Imo State University, Owerri, Imo State,Nigeria 
+  B.Sc Computer Science
