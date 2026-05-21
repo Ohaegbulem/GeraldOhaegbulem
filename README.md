@@ -1,4 +1,4 @@
-# GeraldOhaegbulem
+# Gerald Ohaegbulem
 I am a Technology Leader with progressive experience driving enterprise IT strategy, cybersecurity, and digital transformation across financial services and diversified multi-entity organisations. I specialize in aligning technology with business objectives to deliver secure, scalable, and compliant digital ecosystems that enable growth, &amp; ROI.
 In my current role as Head of IT, I lead enterprise-wide technology operations and transformation initiatives across multiple business units and 750 + team members, ensuring high service availability, strong cybersecurity posture, and full regulatory compliance in highly regulated environments.
 
@@ -22,3 +22,21 @@ I am open to senior leadership opportunities where I can drive enterprise-wide t
 
 # PROJECTS:
 # CERTIFICATIONS:
+Certified Governance Risk and Compliance Analyst (CGRCA)
+Certified Phishing Prevention Specialist (CPPS)
+Certified Data Protection Officer (CDPO)
+Certified Cybersecurity Fundamentals Specialist (CCFS) 
+Accredited Project Manager Certification™
+ISC2 Certified in Cybersecurity (CC)
+IBM Cybersecurity Analyst Professional Certificate
+Introduction to Structured Query Language (SQL) Certification
+Computer Security and Systems Management Specialization
+Introduction to Cyber Security - Specialization 
+Database Management Essentials Certification
+ITIL V3 Foundation
+
+# EDUCATION
+National Open University of Nigeria
+MScInformation Technology
+Imo State University
+B.Sc Computer Science
