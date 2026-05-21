@@ -2,7 +2,7 @@
 I am a Technology Leader with progressive experience driving enterprise IT strategy, cybersecurity, and digital transformation across financial services and diversified multi-entity organisations. I specialize in aligning technology with business objectives to deliver secure, scalable, and compliant digital ecosystems that enable growth, &amp; ROI.
 In my current role as Head of IT, I lead enterprise-wide technology operations and transformation initiatives across multiple business units and 750 + team members, ensuring high service availability, strong cybersecurity posture, and full regulatory compliance in highly regulated environments.
 
-Key Career Highlights:
+# Key Career Highlights:
 
 Led enterprise IT strategy across multi-entity organizations, aligning technology investments with business growth objectives
 Delivered digital transformation initiatives of over 100 Millions of naira, including core banking and ERP implementations, improving operational efficiency and decision-making
@@ -12,7 +12,7 @@ Designed and implemented data privacy and governance frameworks aligned with evo
 Enabled data-driven decision-making through analytics and enterprise platforms and improved stakeholder engagements.
 Advised senior leadership on data protection risks and regulatory compliance strategies example enforcing Security Policies and compliances to frameworks like The Nigerian Data Protection Act 2023 (NDPA 2023) General Data Protection Regulation (GDPR), ISO/IEC 27001 framework,CBN Cybersecurity framework,Security and Exchange Commisiion (SEC) and other statutory frameworks .
 
-Core Expertise:
+# Core Expertise:
 
 Enterprise IT Strategy • Digital Transformation • Cybersecurity & Risk Management • Data Privacy & Governance • IT Governance (ITIL) • Infrastructure & Hybrid Cloud • Core Banking & ERP Systems • Business Continuity & Resilience • Regulatory Compliance
 
