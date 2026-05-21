@@ -23,8 +23,8 @@ I am passionate about building resilient, secure, and future-ready technology en
 
 I am open to senior leadership opportunities where I can drive enterprise-wide technology transformation, strengthen cybersecurity posture, and deliver measurable business value at scale.
 
-# PROJECTS:
-# CERTIFICATIONS:
+# Projects:
+# Certifications:
 * Certified Governance Risk and Compliance Analyst (CGRCA)
 * Certified Phishing Prevention Specialist (CPPS)
 * Certified Data Protection Officer (CDPO)
@@ -38,6 +38,6 @@ I am open to senior leadership opportunities where I can drive enterprise-wide t
 * Database Management Essentials Certification
 * ITIL V3 Foundation
 
-# EDUCATION
+# Education
 * National Open University of Nigeria -   M.Sc Information Technology
 * Imo State University, Owerri, Imo State,Nigeria - B.Sc Computer Science
