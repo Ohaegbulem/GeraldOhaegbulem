@@ -10,7 +10,7 @@ Strengthened cybersecurity and governance frameworks, achieving zero regulatory 
 Maintained high availability of IT services across business units through resilient infrastructure and service management practices
 Designed and implemented data privacy and governance frameworks aligned with evolving regulatory standards
 Enabled data-driven decision-making through analytics and enterprise platforms and improved stakeholder engagements.
-Advised senior leadership on data protection risks and regulatory compliance strategies example enforcing Security Policies and compliances to frameworks like NDPA 2023 and other statutory frameworks .
+Advised senior leadership on data protection risks and regulatory compliance strategies example enforcing Security Policies and compliances to frameworks like The Nigerian Data Protection Act 2023 (NDPA 2023) General Data Protection Regulation (GDPR), ISO/IEC 27001 framework,CBN Cybersecurity framework,Security and Exchange Commisiion (SEC) and other statutory frameworks .
 
 Core Expertise:
 
