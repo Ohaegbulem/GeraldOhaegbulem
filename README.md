@@ -36,7 +36,5 @@ I am open to senior leadership opportunities where I can drive enterprise-wide t
 * ITIL V3 Foundation
 
 # EDUCATION
-* National Open University of Nigeria
-  MScInformation Technology
-* Imo State University, Owerri, Imo State,Nigeria 
-  B.Sc Computer Science
+* National Open University of Nigeria -   M.Sc Information Technology
+* Imo State University, Owerri, Imo State,Nigeria - B.Sc Computer Science
